@@ -1,14 +1,14 @@
 .icon {
     font-size: 24px; /* Ukuran default ikon */
     align-content: center;
-    margin-top: 5px;
+    margin-top: 6px;
   }
   
   .notification-icon .icon {
-    font-size: 24px; /* Ukuran khusus untuk ikon notification */
+    font-size: 22px; /* Ukuran khusus untuk ikon notification */
   }
   
   .person-icon {
-    font-size: 24px; /* Ukuran khusus untuk ikon profile */
+    font-size: 22px; /* Ukuran khusus untuk ikon profile */
   }
   
